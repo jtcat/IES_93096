@@ -14,3 +14,4 @@ artifactId=my-app
 
 Fiquei sem espaço na partição linux
 Finish lab1
+Remember to always pull before working on a repo
